@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/CodeTyping.gif") top right no-repeat;
+  background: url("../img/hero-bg.png") top right no-repeat;
   position: relative;
 }
 @media (min-width: 992px) {
